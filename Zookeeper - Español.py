@@ -92,8 +92,6 @@ _________________               _________________
 Este murciélago parece que va bien."""
 
 rabbit = r"""
-Encendiendo la cámara en el hábitat del conejo...
-time.sleep(3)
          ,
         /|      __
        / |   ,-~ /
